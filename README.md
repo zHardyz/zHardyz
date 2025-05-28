@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Hardy
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+front-end;Desenvolvedor+de+jogos;Sempre+Aprendendo+Algo+Novo;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+front-end;Desenvolvedor+de+jogos;Desenvolvedor+de+IA;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre Mim
