@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre Mim
 
-Costumo criar projetos para entretenimento. Adoro explorar novas tecnologias e transformar ideias em realidade através do código.
+Costumo criar projetos para entretenimento. gosto de explorar novas tecnologias e transformar ideias em realidade através do código.
 
 - 🔭 Atualmente trabalhando em **[Mimir.IA](https://github.com/zHardyz/Mimir-vtuber)**
 - 🌱 Estudando **React e novas tecnologias**
