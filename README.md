@@ -9,11 +9,9 @@
 Costumo criar projetos para entretenimento. gosto de explorar novas tecnologias e transformar ideias em realidade através do código.
 
 - 🔭 Atualmente trabalhando em **[Mimir.IA](https://github.com/zHardyz/Mimir-vtuber)**
-- 🌱 Estudando **React e novas tecnologias**
+- 🌱 Estudando **novas tecnologias**
 - 👯 Buscando colaborar em **projetos Open Source**
-- 💬 Pergunte-me sobre **JavaScript, Python, React, Node.js**
-- ⚡ Curiosidade: **Primeiro brasileiro a criar uma VTuber-IA 100% gratuita e Open Source**
-
+- 💬 Pergunte-me sobre **JavaScript, Python, Node.js**
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
@@ -23,29 +21,20 @@ Costumo criar projetos para entretenimento. gosto de explorar novas tecnologias 
 <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 </a>
+<a href="https://www.cprogramming.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+</a>
 <a href="https://www.python.org" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 </a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-</a>
 <a href="https://www.java.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-</a>
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-</a>
-<a href="https://vuejs.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50"/>
 </a>
 <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
 </a>
 <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-</a>
-<a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
 </a>
 <a href="https://nodejs.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
@@ -56,6 +45,9 @@ Costumo criar projetos para entretenimento. gosto de explorar novas tecnologias 
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 </a>
+
+
+
 
 </div>
 
